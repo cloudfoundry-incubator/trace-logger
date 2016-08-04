@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	. "github.com/cloudfoundry-incubator/trace-logger"
+	. "code.cloudfoundry.org/trace-logger"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
